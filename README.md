@@ -6,7 +6,7 @@ Connects to a twitter account and sends a pre-defined message to each new follow
 * Need [twitter](https://github.com/jnunemaker/twitter) and [sqlite3](https://github.com/luislavena/sqlite3-ruby) modules
 * Application need authorization to connect user's twitter account. See [twitter help](https://dev.twitter.com/docs/auth/oauth).
 * Fill up 'config.yml' with twitter authorization token
-* At the first start, application send message to each user's followers. After that
+* At the first start, application send message to each user's followers.
 
 ## Features
 
