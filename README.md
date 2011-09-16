@@ -11,12 +11,15 @@ Connects to a twitter account and sends a pre-defined message to each new follow
 ## Features
 
 * Populate database with new followers
+
     populate
 
 * Send welcome message to each new follower
+
     send_welcome_msg
 
 * Each 10 scd, populate database with new follower and send them a welcome message
+
     live
 
 ## Exemple
@@ -30,4 +33,5 @@ Connects to a twitter account and sends a pre-defined message to each new follow
 ## Author
 
 Thibault Couraud
+
 [http://sweetdub.com](http://sweetdub.com)
